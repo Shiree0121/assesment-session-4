@@ -1,0 +1,24 @@
+Script started on Thu Nov 11 20:30:42 2021
+%                                                                               ]7;file://Shirees-MacBook-Air.local/Users/shireewhite/assesment-session-4shireewhite@Shirees-MacBook-Air assesment-session-4 % [?2004hmkdir folder2 1[?2004l
+%                                                                               ]7;file://Shirees-MacBook-Air.local/Users/shireewhite/assesment-session-4shireewhite@Shirees-MacBook-Air assesment-session-4 % [?2004hmkdir folder2[?2004l
+%                                                                               ]7;file://Shirees-MacBook-Air.local/Users/shireewhite/assesment-session-4shireewhite@Shirees-MacBook-Air assesment-session-4 % [?2004htouch file1.txt[?2004l
+%                                                                               ]7;file://Shirees-MacBook-Air.local/Users/shireewhite/assesment-session-4shireewhite@Shirees-MacBook-Air assesment-session-4 % [?2004htocu  uch fl o ile2.txt[?2004l
+%                                                                               ]7;file://Shirees-MacBook-Air.local/Users/shireewhite/assesment-session-4shireewhite@Shirees-MacBook-Air assesment-session-4 % [?2004htouch file3.te xt[?2004l
+%                                                                               ]7;file://Shirees-MacBook-Air.local/Users/shireewhite/assesment-session-4shireewhite@Shirees-MacBook-Air assesment-session-4 % [?2004hrm    rm -    mv folder     ii le1.txt fp;d   older1[?2004l
+%                                                                               ]7;file://Shirees-MacBook-Air.local/Users/shireewhite/assesment-session-4shireewhite@Shirees-MacBook-Air assesment-session-4 % [?2004hmv files 2.txt folder2[?2004l
+%                                                                               ]7;file://Shirees-MacBook-Air.local/Users/shireewhite/assesment-session-4shireewhite@Shirees-MacBook-Air assesment-session-4 % [?2004hrm   m -rf file  3[?2004l
+%                                                                               ]7;file://Shirees-MacBook-Air.local/Users/shireewhite/assesment-session-4shireewhite@Shirees-MacBook-Air assesment-session-4 % [?2004hexit    ls[?2004l
+README.md	file3.txt	folder1		folder2		output.txt
+%                                                                               ]7;file://Shirees-MacBook-Air.local/Users/shireewhite/assesment-session-4shireewhite@Shirees-MacBook-Air assesment-session-4 % [?2004hrm rf     -    -rf file3.txy t[?2004l
+%                                                                               ]7;file://Shirees-MacBook-Air.local/Users/shireewhite/assesment-session-4shireewhite@Shirees-MacBook-Air assesment-session-4 % [?2004hls[?2004l
+README.md	folder1		folder2		output.txt
+%                                                                               ]7;file://Shirees-MacBook-Air.local/Users/shireewhite/assesment-session-4shireewhite@Shirees-MacBook-Air assesment-session-4 % [?2004hadd .     git add .[?2004l
+%                                                                               ]7;file://Shirees-MacBook-Air.local/Users/shireewhite/assesment-session-4shireewhite@Shirees-MacBook-Air assesment-session-4 % [?2004hls[?2004l
+README.md	folder1		folder2		output.txt
+%                                                                               ]7;file://Shirees-MacBook-Air.local/Users/shireewhite/assesment-session-4shireewhite@Shirees-MacBook-Air assesment-session-4 % [?2004hgit commit   "n             exit[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Nov 11 20:33:05 2021
